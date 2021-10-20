@@ -1,0 +1,3 @@
+ 
+2. De cate ori este un cadru desenat pe secunda la monitor
+3. Onupdateframe este rulata atunci cand se incepe executia programului 
